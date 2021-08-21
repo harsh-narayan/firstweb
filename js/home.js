@@ -13,7 +13,7 @@ function login(){
     var pword = document.getElementById("pword").value;
 
     if(pword === "sat3237679" && uname === "boobies")
-        window.location.href="../login.html";
+        window.location.href="login.html";
     else
     {
         if(uname === "boobies")
